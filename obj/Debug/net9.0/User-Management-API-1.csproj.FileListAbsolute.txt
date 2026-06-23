@@ -6,8 +6,10 @@ C:\Users\USER\User-Management-API-1\bin\Debug\net9.0\User-Management-API-1.deps.
 C:\Users\USER\User-Management-API-1\bin\Debug\net9.0\User-Management-API-1.runtimeconfig.json
 C:\Users\USER\User-Management-API-1\bin\Debug\net9.0\User-Management-API-1.dll
 C:\Users\USER\User-Management-API-1\bin\Debug\net9.0\User-Management-API-1.pdb
-C:\Users\USER\User-Management-API-1\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\USER\User-Management-API-1\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\USER\User-Management-API-1\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\User-Management-API-1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\User-Management-API-1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\USER\User-Management-API-1\obj\Debug\net9.0\User-Management-API-1.csproj.AssemblyReference.cache
 C:\Users\USER\User-Management-API-1\obj\Debug\net9.0\rpswa.dswa.cache.json
 C:\Users\USER\User-Management-API-1\obj\Debug\net9.0\User-Management-API-1.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +18,7 @@ C:\Users\USER\User-Management-API-1\obj\Debug\net9.0\User-Management-API-1.Assem
 C:\Users\USER\User-Management-API-1\obj\Debug\net9.0\User-Management-API-1.csproj.CoreCompileInputs.cache
 C:\Users\USER\User-Management-API-1\obj\Debug\net9.0\User-Management-API-1.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\USER\User-Management-API-1\obj\Debug\net9.0\User-Management-API-1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\User-Management-API-1\obj\Debug\net9.0\User-Management-API-1.sourcelink.json
 C:\Users\USER\User-Management-API-1\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\USER\User-Management-API-1\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\USER\User-Management-API-1\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
