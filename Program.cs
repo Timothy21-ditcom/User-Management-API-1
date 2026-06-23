@@ -1,4 +1,5 @@
 using UserManagementAPI.Services;
+using UserManagementAPI.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,6 +25,11 @@ if (app.Environment.IsDevelopment())
     });
 }
 
+app.UseMiddleware<ErrorHandlingMiddleware>();
+
+app.UseMiddleware<AuthenticationMiddleware>();
+
+app.UseMiddleware<LoggingMiddleware>();
 
 app.UseHttpsRedirection();
 
